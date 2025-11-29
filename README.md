@@ -13,7 +13,7 @@ This repository contains comprehensive study materials for the Let's Defend "SOC
 
 **🌟 ACHIEVEMENT HIGHLIGHTS:**
 - ✅ **Certificate Obtained:** November 29, 2025
-- ✅ **Training Duration:** November 25-29, 2025 (4 days intensive)
+- ✅ **Training Duration:** November 19-29, 2025 (10 days intensive)
 - ✅ **Completion Rate:** 25/25 Modules (100%)
 - ✅ **Study Notes:** 25 comprehensive modules created
 - ✅ **Practical Experience:** Hands-on security alert investigations
