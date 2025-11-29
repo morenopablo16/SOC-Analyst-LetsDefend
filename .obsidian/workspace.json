@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "c3626c3b447ed249",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec7a5e4e0b50be4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f666532ee1394c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC-Labs/SOC137 - Malicious File_Script Download Attempt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOC137 - Malicious File_Script Download Attempt"
+            }
+          },
+          {
+            "id": "6ad8b12cdebe635c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC-Labs/SOC105 - Requested T.I. URL address.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOC105 - Requested T.I. URL address"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb5d899c1ecb26a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd9bdbc14323e3fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2b451c1d614254",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "940235d6449fc690",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95620c52e4f9e24f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4866b375a50f332b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db6567eeb87661b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bb3757ace8dc732",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SOC-Labs/SOC146 — Phishing Mail Detected.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SOC146 — Phishing Mail Detected"
+            }
+          },
+          {
+            "id": "afb30cb20230e640",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SOC-Labs/SOC146 — Phishing Mail Detected.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SOC146 — Phishing Mail Detected"
+            }
+          },
+          {
+            "id": "c167b1dbca151751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49d65b4442d32e61",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "db854d3986714fca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SOC-Labs/SOC146 — Phishing Mail Detected.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SOC146 — Phishing Mail Detected"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "36f666532ee1394c",
+  "lastOpenFiles": [
+    "98-assets/SOC_labs/Pasted image 20251128162623.png",
+    "98-assets/SOC_labs/Pasted image 20251128162357.png",
+    "98-assets/SOC_labs/Pasted image 20251128162259.png",
+    "98-assets/SOC_labs/Pasted image 20251128162211.png",
+    "SOC-Labs/image.png",
+    "98-assets/SOC_labs/Pasted image 20251128162101.png",
+    "SOC-Labs/SOC104 - Malware Detected.md",
+    "SOC-Labs/SOC105 - Requested T.I. URL address.md",
+    "SOC-Labs/SOC137 - Malicious File_Script Download Attempt.md",
+    "98-assets/SOC_labs/Pasted image 20251128161928.png",
+    "SOC-Labs/SOC105 - Requested T.I. URL address_4.md",
+    "SOC-Labs/SOC137 - Malicious File/Script Download Attempt.md",
+    "SOC-Labs/SOC137 - Malicious File",
+    "20_VirusTotal_for_SOC_Analysts/20-VirusTotal-for-SOC-Analysts.md",
+    "98-assets/SOC_labs/Pasted image 20251128160531.png",
+    "98-assets/SOC_labs/Pasted image 20251128160158.png",
+    "98-assets/SOC_labs/Pasted image 20251128160103.png",
+    "98-assets/SOC_labs/Pasted image 20251128160021.png",
+    "SOC-Labs/SOC105 - Requested T.I. URL address_3.md",
+    "SOC-Labs/SOC105 - Requested T.I. URL address_2.md",
+    "SOC-Labs/SOC282 - Phishing Alert - Deceptive Mail Detected.md",
+    "SOC-Labs/EventID: 20 - [SOC105 - Requested T.I. URL address].md",
+    "19_Cyber_Threat_Intelligence/19-Cyber-Threat-Intelligence.md",
+    "18_Splunk/18-Splunk.md",
+    "17_Incident_Management_101/17-Incident-Management-101.md",
+    "16_SIEM_101/16-SIEM-101.md",
+    "15_Network_Log_Analysis/15-Network-Log-Analysis-Part2.md",
+    "15_Network_Log_Analysis/15-Network-Log-Analysis-Part1.md",
+    "15_Network_Log_Analysis/15-Network-Log-Analysis.md",
+    "14_Security_Solutions/14-Security-Solutions-Part2.md",
+    "14_Security_Solutions/14-Security-Solutions-Part1.md",
+    "14_Security_Solutions/Module14_Security_Solutions_Part1.md",
+    "SOC-Labs/SOC138 - Detected Suspicious Xls File.md",
+    "11_Dynamic_Malware_Analysis/Dynamic-Malware-Analysis-Steps.md",
+    "11_Dynamic_Malware_Analysis/11-Dynamic-Malware-Analysis.md",
+    "09_Malware_Analysis_Fundamentals/09-Malware-Analysis-Fundamentals.md",
+    "08_How_to_Investigate_SIEM_Alert/07-How-to-Investigate-SIEM-Alert.md",
+    "98-assets/SOC_labs"
+  ]
+}
